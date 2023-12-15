@@ -1,2 +1,2 @@
 # Spinning-Cube
-A Spinning cube using C.
+A Spinning cube made using C.
